@@ -6,7 +6,7 @@ category: ranks
 
 badge_color: 
 symbol: 
-symbol_color: 
+symbol_color: 0097a7
 discord_title: Event Producer
 discord_color: 
 abbreviation: 
